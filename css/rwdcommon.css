@@ -47,7 +47,7 @@
 @media screen and (max-width:768px) {
 
     #header .sns { float: none; display: none;}
-    /* #header .sns a { display: none; } */
+    #header .membership { float: none; text-align: right;}
 
     #header .row { position:relative }
     #header .open,
