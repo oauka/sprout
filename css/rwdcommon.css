@@ -6,10 +6,10 @@
         font-size:27px;
         color:#ffd23c;
         margin:30px 0;
-        float:none;
+        float:unset;
         text-align:center;
     }
-    #nav { float:none;
+    #nav { float:unset;
         font-size:16px;
         /* border:1px solid #000; */
         margin-top:40px;
